@@ -1,5 +1,7 @@
 # React APP
 
-## My 2nd react app tutorial to further familiarise myself with the library/framework.
+## My 2nd react app guided tutorial to further familiarise myself with the library/framework.
 
-## status: on-going, will only deploy it to github pages once it's completed.
+## View this react APP on your browser by clicking this link:
+
+## "http://Techlearner93.github.io/react-task-tracker"
